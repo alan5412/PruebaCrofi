@@ -6,3 +6,5 @@
 Es importante nombrar de manera correcta el `commit`
 
 Obten mas informacion en la pagina de [GitHub](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+~~Usaremos Git para subir todo de manera local sin necesidad de entrar a github~~
